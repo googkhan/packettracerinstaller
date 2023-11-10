@@ -1,7 +1,7 @@
-# Packet Tracer Manual Installer Script
+## Packet Tracer Manual Installer Script
 Packet Tracer 7.3 manual install from available deb format
 
-==Usage==
+## Usage
 1. Clone git repository
 2. Copy PacketTracer_7.3_linux.deb to /tmp
 3. Run script as root
